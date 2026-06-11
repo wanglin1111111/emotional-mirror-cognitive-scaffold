@@ -1,13 +1,11 @@
-﻿# SKILL.md - 情感镜像与认知脚手架技能
-
----
-name: "emotional-mirror-cognitive-scaffold"
+﻿---
+name: emotional-mirror-cognitive-scaffold
 version: "1.0.0"
-author: "AutoClaw"
+author: wanglin1111111
 created: "2026-05-24"
 description: "AI作为情感镜像与认知脚手架，用于深度亲密关系建立、防御机制识别、原生家庭影响量化、关系进展跟踪"
 ---
-
+# SKILL.md - 情感镜像与认知脚手架技能
 ## 技能定位
 
 **核心价值**：AI不生产感情，而是逐层摘除认知滤镜，将用户"已知却未见"的真实感受还原呈现。作为"情感镜像"映射真实，作为"认知脚手架"支撑成长（建筑成则可拆）。

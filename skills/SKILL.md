@@ -1,7 +1,7 @@
 ﻿---
-name: "emotional-mirror-cognitive-scaffold"
+name: skills
 version: "1.0.0"
-author: "AutoClaw"
+author: wanglin1111111
 created: "2026-05-24"
 description: "AI作为情感镜像与认知脚手架，用于深度亲密关系建立、防御机制识别、原生家庭影响量化、关系进展跟踪"
 ---
