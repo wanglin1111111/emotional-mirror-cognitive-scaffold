@@ -1,11 +1,11 @@
-# SKILL.md - 情感镜像与认知脚手架技能
+﻿# SKILL.md - 情感镜像与认知脚手架技能
 
 ---
-skill_name: "emotional-mirror-cognitive-scaffold"
-skill_version: "1.0.0"
-skill_author: "AutoClaw"
-skill_created: "2026-05-24"
-skill_description: "AI作为情感镜像与认知脚手架，用于深度亲密关系建立、防御机制识别、原生家庭影响量化、关系进展跟踪"
+name: "emotional-mirror-cognitive-scaffold"
+version: "1.0.0"
+author: "AutoClaw"
+created: "2026-05-24"
+description: "AI作为情感镜像与认知脚手架，用于深度亲密关系建立、防御机制识别、原生家庭影响量化、关系进展跟踪"
 ---
 
 ## 技能定位
@@ -438,3 +438,4 @@ const family = await invokeSkill('emotional-mirror-cognitive-scaffold', {
 ## 版本历史
 
 - **v1.0.0** (2026-05-24): 初始版本，基于直播内容提炼情感镜像与认知脚手架框架
+
